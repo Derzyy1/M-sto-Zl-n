@@ -108,6 +108,7 @@ header .auth-buttons .signup:hover {
     margin-bottom: 0.5em;
     background: linear-gradient(to right, #00246B, #CADDFC);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
